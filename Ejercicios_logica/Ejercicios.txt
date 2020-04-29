@@ -1,0 +1,58 @@
+Ejercicio 1)
+Determinar la corrección del siguiente argumento.
+Se sabe que
+1. Los animales con pelo o que dan leche son mamíferos.
+2. Los mamíferos que tienen pezuñas o que rumian son ungulados.
+3. Los ungulados de cuello largo son jirafas.
+4. Los ungulados con rayas negras son cebras.
+Se observa un animal que tiene pelos, pezuñas y rayas negras. Por consiguiente, se concluye que el animal es una cebra.
+
+R= 
+1) P v Q -> R
+2) R ^ ( S v T) -> U
+3) U ^ V -> W
+4) U ^ X -> Y
+5) ( P v Q ) ^ ( S v T) -> U [1, 2]
+6) ( P v Q ) ^ ( S v T) ^ X -> Y [5,4]
+7) P ^ S ^ X -> Y [6]
+
+
+Ejercicio 2)
+En una isla hay dos tribus, la de los veraces (que siempre dicen la verdad)
+y la de los mentirosos (que siempre mienten). Un viajero se encuentra con tres isleños
+A, B y C y cada uno le dice una frase
+1. A dice “B y C son veraces syss C es veraz”
+2. B dice “Si A y C son veraces, entonces B y C son veraces y A es mentiroso”
+3. C dice “B es mentiroso syss A o B es veraz”
+Determinar a qué tribu pertenecen A, B y C
+
+R= A y B son veraces y C es mentiroso. 
+
+Ejercicio 3)
+ Determinar si los siguientes argumentos son lógicamente correctos:
+1. Si Juan es andaluz, entonces Juan es europeo. Juan es europeo. Por tanto, Juan es
+andaluz.
+2. Cuando tanto la temperatura como la presión atmosférica permanecen contantes,
+no llueve. La temperatura permanece constante. En consecuencia, en caso de que
+llueva, la presión atmosférica no permanece constante.
+3. Siempre que un número x es divisible por 10, acaba en 0. El número x no acaba en
+0. Luego, x no es divisible por 10.
+4. En cierto experimento, cuando hemos empleado un fármaco A, el paciente ha mejorado considerablemente en el caso, y sólo en el caso, en que no se haya empleado
+también un fármaco B. Además, o se ha empleado el fármaco A o se ha empleado el fármaco B. En consecuencia, podemos afirmar que si no hemos empleado el
+fármaco B, el paciente ha mejorado considerablemente.
+
+R= INCORRECTA, INCORRECTA, INCORRECTA, 
+
+Ejercicio 4)
+Un rey somete a un prisionero a la siguiente prueba: lo enfrenta a dos
+puertas, de las que el prisionero debe elegir una, y entrar en la habitación correspondiente. Se informa al prisionero que en cada una de las habitaciones puede haber un
+tigre o una dama. Como es natural, el prisionero debe elegir la puerta que le lleva a
+la dama (entre otras cosas, para no ser devorado por el tigre). Para ayudarle, en cada
+puerta hay un letrero:
+puerta 1: en esta habitación hay una dama y en la otra un tigre.
+puerta 2: en una de estas habitaciones hay una dama y en una de estas habitaciones
+hay un tigre.
+Sabiendo que uno de los carteles dice la verdad y el otro no, determinar la puerta que
+debe de elegir el prisionero.
+
+R= 

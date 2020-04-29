@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Función Recursiva</title>
+</head>
+<body>
+    <script>
+        const numero = prompt("Ingrese el numero del factorial a calcular:");
+        function recursividad(numero) {
+            let count = 1;
+            for (let i = 1; i<=numero; i++) {
+                count *= i;
+            }
+            return count;
+        }
+        console.log('El resultado es: ' + recursividad(numero));
+    </script>
+</body>
+</html>
