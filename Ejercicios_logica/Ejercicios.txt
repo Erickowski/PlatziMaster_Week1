@@ -1,11 +1,11 @@
 Ejercicio 1)
-Determinar la correcciÛn del siguiente argumento.
+Determinar la correcci√≥n del siguiente argumento.
 Se sabe que
-1. Los animales con pelo o que dan leche son mamÌferos.
-2. Los mamÌferos que tienen pezuÒas o que rumian son ungulados.
+1. Los animales con pelo o que dan leche son mam√≠feros.
+2. Los mam√≠feros que tienen pezu√±as o que rumian son ungulados.
 3. Los ungulados de cuello largo son jirafas.
 4. Los ungulados con rayas negras son cebras.
-Se observa un animal que tiene pelos, pezuÒas y rayas negras. Por consiguiente, se concluye que el animal es una cebra.
+Se observa un animal que tiene pelos, pezu√±as y rayas negras. Por consiguiente, se concluye que el animal es una cebra.
 
 R= 
 1) P v Q -> R
@@ -19,40 +19,40 @@ R=
 
 Ejercicio 2)
 En una isla hay dos tribus, la de los veraces (que siempre dicen la verdad)
-y la de los mentirosos (que siempre mienten). Un viajero se encuentra con tres isleÒos
+y la de los mentirosos (que siempre mienten). Un viajero se encuentra con tres isle√±os
 A, B y C y cada uno le dice una frase
-1. A dice ìB y C son veraces syss C es verazî
-2. B dice ìSi A y C son veraces, entonces B y C son veraces y A es mentirosoî
-3. C dice ìB es mentiroso syss A o B es verazî
-Determinar a quÈ tribu pertenecen A, B y C
+1. A dice ‚ÄúB y C son veraces syss C es veraz‚Äù
+2. B dice ‚ÄúSi A y C son veraces, entonces B y C son veraces y A es mentiroso‚Äù
+3. C dice ‚ÄúB es mentiroso syss A o B es veraz‚Äù
+Determinar a qu√© tribu pertenecen A, B y C
 
 R= A y B son veraces y C es mentiroso. 
 
 Ejercicio 3)
- Determinar si los siguientes argumentos son lÛgicamente correctos:
+ Determinar si los siguientes argumentos son l√≥gicamente correctos:
 1. Si Juan es andaluz, entonces Juan es europeo. Juan es europeo. Por tanto, Juan es
 andaluz.
-2. Cuando tanto la temperatura como la presiÛn atmosfÈrica permanecen contantes,
+2. Cuando tanto la temperatura como la presi√≥n atmosf√©rica permanecen contantes,
 no llueve. La temperatura permanece constante. En consecuencia, en caso de que
-llueva, la presiÛn atmosfÈrica no permanece constante.
-3. Siempre que un n˙mero x es divisible por 10, acaba en 0. El n˙mero x no acaba en
+llueva, la presi√≥n atmosf√©rica no permanece constante.
+3. Siempre que un n√∫mero x es divisible por 10, acaba en 0. El n√∫mero x no acaba en
 0. Luego, x no es divisible por 10.
-4. En cierto experimento, cuando hemos empleado un f·rmaco A, el paciente ha mejorado considerablemente en el caso, y sÛlo en el caso, en que no se haya empleado
-tambiÈn un f·rmaco B. Adem·s, o se ha empleado el f·rmaco A o se ha empleado el f·rmaco B. En consecuencia, podemos afirmar que si no hemos empleado el
-f·rmaco B, el paciente ha mejorado considerablemente.
+4. En cierto experimento, cuando hemos empleado un f√°rmaco A, el paciente ha mejorado considerablemente en el caso, y s√≥lo en el caso, en que no se haya empleado
+tambi√©n un f√°rmaco B. Adem√°s, o se ha empleado el f√°rmaco A o se ha empleado el f√°rmaco B. En consecuencia, podemos afirmar que si no hemos empleado el
+f√°rmaco B, el paciente ha mejorado considerablemente.
 
-R= INCORRECTA, INCORRECTA, INCORRECTA, 
+R= INCORRECTA, INCORRECTA, INCORRECTA, CORRECTA
 
 Ejercicio 4)
 Un rey somete a un prisionero a la siguiente prueba: lo enfrenta a dos
-puertas, de las que el prisionero debe elegir una, y entrar en la habitaciÛn correspondiente. Se informa al prisionero que en cada una de las habitaciones puede haber un
+puertas, de las que el prisionero debe elegir una, y entrar en la habitaci√≥n correspondiente. Se informa al prisionero que en cada una de las habitaciones puede haber un
 tigre o una dama. Como es natural, el prisionero debe elegir la puerta que le lleva a
 la dama (entre otras cosas, para no ser devorado por el tigre). Para ayudarle, en cada
 puerta hay un letrero:
-puerta 1: en esta habitaciÛn hay una dama y en la otra un tigre.
+puerta 1: en esta habitaci√≥n hay una dama y en la otra un tigre.
 puerta 2: en una de estas habitaciones hay una dama y en una de estas habitaciones
 hay un tigre.
 Sabiendo que uno de los carteles dice la verdad y el otro no, determinar la puerta que
 debe de elegir el prisionero.
 
-R= 
+R= Puerta 2
